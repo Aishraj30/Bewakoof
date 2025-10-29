@@ -12,7 +12,7 @@ import { useContext } from 'react';
 import { useState } from 'react';
 
 
-import Nav from '../Component/nav';
+import Nav from '../Component/Nav';
 import Card from '../Component/Card';
 import { clothingData } from '../Clothes'; 
 import { dataContext } from '../Context/Usercontext'; // ✅ correct context import

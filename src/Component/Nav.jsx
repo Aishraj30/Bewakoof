@@ -6,7 +6,7 @@ import { MdOutlineShoppingBag } from "react-icons/md";
 import { dataContext } from '../Context/Usercontext';
 import { useSelector } from 'react-redux';
 import { NavLink } from 'react-router-dom';
-import Nav from "./Component/Nav";
+//import Nav from "./Component/Nav";
 
 
 const Nav = () => {
