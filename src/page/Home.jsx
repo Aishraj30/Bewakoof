@@ -18,7 +18,7 @@ import { clothingData } from '../Clothes';
 import { dataContext } from '../Context/Usercontext'; // ✅ correct context import
 import { IoMdClose } from 'react-icons/io';
 import Card2 from '../Component/Card2';
-import AutoSlider from '../Component/autoslider';
+import AutoSlider from '../Component/Autoslider';
 import { useSelector } from 'react-redux';
 import { RemoveItem } from '../Redux/Cartslice';
 
